@@ -18,8 +18,8 @@
 <div>
   
   <div align="center">
-    <img alt="Augusto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carmolim&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="150"/>
-    <img alt="Augusto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmolim&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="150"/>
+    <img alt="Augusto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carmolim&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180"/>
+    <img alt="Augusto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmolim&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180"/>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
